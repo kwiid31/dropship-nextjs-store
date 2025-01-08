@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "sw-001",
+      "name": "SmartFit Pro X1",
+      "category": "smartwatch",
+      "price": 89.99,
+      "costPrice": 25,
+      "features": [
+        "Suivi cardiaque 24/7",
+        "GPS intégré",
+        "Étanche 50m",
+        "Autonomie 7 jours"
+      ],
+      "images": [
+        "/products/smartwatch-x1-main.jpg"
+      ],
+      "inStock": true,
+      "rating": 4.5
+    },
+    {
+      "id": "ft-001",
+      "name": "FitBand Elite",
+      "category": "fitness-tracker",
+      "price": 49.99,
+      "costPrice": 18,
+      "features": [
+        "Suivi du sommeil",
+        "Compteur de pas",
+        "Notifications smartphone",
+        "Étanche"
+      ],
+      "images": [
+        "/products/fitband-elite-main.jpg"
+      ],
+      "inStock": true,
+      "rating": 4.3
+    }
+  ]
+}
